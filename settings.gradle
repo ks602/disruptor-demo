@@ -1,0 +1,6 @@
+rootProject.name = 'disruptor'
+include 'disruptor-core'
+include 'disruptor-rest'
+include 'disruptor-rest'
+include 'disruptor-app'
+
